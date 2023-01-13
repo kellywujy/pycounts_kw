@@ -2,6 +2,8 @@
 
 python package for text loading, cleaning and word counting
 
+Documentation are available [here](https://pycounts-kw.readthedocs.io/en/latest/)
+
 ## Installation
 
 ```bash
